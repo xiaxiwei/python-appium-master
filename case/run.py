@@ -37,3 +37,6 @@ def test_bbs():
 def test_xiaxiwei(bbb):
     print('大好人')
 
+
+def test_configg():
+    print('ceshifenzhi')
