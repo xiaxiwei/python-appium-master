@@ -34,6 +34,6 @@ def test_bbs():
     c=a+b
     print(c)
 
-def test_xiaxiwei():
+def test_xiaxiwei(bbb):
     print('大好人')
 
