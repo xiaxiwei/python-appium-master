@@ -29,4 +29,7 @@ if __name__ == '__main__':
         print(e)
 
 def test_bbs():
-    pass
+    a =5
+    b=4
+    c=a+b
+    print(c)
